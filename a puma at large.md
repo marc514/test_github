@@ -15,7 +15,7 @@ a puma will not attack a human being unless it is cornered.
 The search proved difficult,  
 for the puma was often observed at one place in the morning  
 and at another place twenty miles away in the evening.  
-Wherever it went, 
+Wherever it went,  
 it left behind it a trail(足迹) of dead deer and small animals like rabbits.  
 Paw prints were seen in a number of places and  
 puma fur was found clinging(附着) to bushes.  
@@ -29,5 +29,3 @@ and somehow managed to escape.
 The hunt went on for several weeks, but the puma was not caught.  
 It is disturbing(令人不安的) to think that  
 a dangerous wild animal is still at large in the quiet countryside.  
-
-
