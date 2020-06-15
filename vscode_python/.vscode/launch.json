@@ -1,0 +1,22 @@
+{
+    // See https://go.microsoft.com/fwlink/?linkid=830387
+    // for the documentation about the launch.json format
+    
+    // launch.json is for F5 to debug
+    "configurations": [
+        {
+            "name": "Python: Current File (Integrated Terminal)",
+            "type": "python",
+            "request": "launch",       
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "stopOnEntry":true,
+            "pythonPath": "${config:python.pythonPath}",   
+            // "debugOptions": [
+            //     "WaitOnAbnormalExit",
+            //     "WaitOnNormalExit",
+            //     "RedirectOutput"
+            // ]
+        }
+    ]
+}
