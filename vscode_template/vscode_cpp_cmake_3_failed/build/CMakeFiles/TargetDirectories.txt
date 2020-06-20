@@ -1,0 +1,3 @@
+/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/build/CMakeFiles/edit_cache.dir
+/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/build/CMakeFiles/rebuild_cache.dir
+/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/build/CMakeFiles/main.out.dir

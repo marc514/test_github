@@ -1,0 +1,5 @@
+/media/zuo/sdb/11_OneDrive/01_CPP_DSAA_CS/vscode_template/vscode_cpp_cmake_2/build/CMakeFiles/edit_cache.dir
+/media/zuo/sdb/11_OneDrive/01_CPP_DSAA_CS/vscode_template/vscode_cpp_cmake_2/build/CMakeFiles/rebuild_cache.dir
+/media/zuo/sdb/11_OneDrive/01_CPP_DSAA_CS/vscode_template/vscode_cpp_cmake_2/build/src/CMakeFiles/edit_cache.dir
+/media/zuo/sdb/11_OneDrive/01_CPP_DSAA_CS/vscode_template/vscode_cpp_cmake_2/build/src/CMakeFiles/rebuild_cache.dir
+/media/zuo/sdb/11_OneDrive/01_CPP_DSAA_CS/vscode_template/vscode_cpp_cmake_2/build/src/CMakeFiles/HW2.dir

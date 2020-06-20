@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5     -g   -o CMakeFiles/main.out.dir/main.cpp.o -c /media/zuo/sdb/testcode/vscode_cpp_cmake_failed/main.cpp",
+  "file": "/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/main.cpp"
+},
+{
+  "directory": "/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5     -g   -o CMakeFiles/main.out.dir/inc/solution.cpp.o -c /media/zuo/sdb/testcode/vscode_cpp_cmake_failed/inc/solution.cpp",
+  "file": "/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/inc/solution.cpp"
+},
+{
+  "directory": "/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-5     -g   -o CMakeFiles/main.out.dir/src/hello.cpp.o -c /media/zuo/sdb/testcode/vscode_cpp_cmake_failed/src/hello.cpp",
+  "file": "/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/src/hello.cpp"
+}
+]

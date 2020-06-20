@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-5   -g   CMakeFiles/main.out.dir/main.cpp.o CMakeFiles/main.out.dir/inc/solution.cpp.o CMakeFiles/main.out.dir/src/hello.cpp.o  -o main.out -rdynamic 

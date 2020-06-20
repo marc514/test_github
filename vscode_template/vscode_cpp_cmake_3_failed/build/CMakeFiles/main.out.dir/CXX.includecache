@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/inc/solution.cpp
+solution.h
+/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/inc/solution.h
+
+/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/inc/solution.h
+iostream
+-
+
+/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/main.cpp
+src/hello.hpp
+/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/src/hello.hpp
+
+/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/src/hello.cpp
+hello.hpp
+/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/src/hello.hpp
+
+/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/src/hello.hpp
+iostream
+-
+solution.h
+/media/zuo/sdb/testcode/vscode_cpp_cmake_failed/src/solution.h
+
